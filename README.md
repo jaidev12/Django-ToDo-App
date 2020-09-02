@@ -1,5 +1,5 @@
 # Django-ToDo-App
-A web app built on the Django framework and PostgreSQL database to store ToDo lists.
+A web app built on the Django framework and SQLite database to store ToDo lists.
 In this user can create his/her todo list by adding items, cross the completed items, delete the completed items and can delete all the items.
 
 Technologies Used : 
